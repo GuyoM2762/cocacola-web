@@ -50,4 +50,6 @@ header {
     display: flex;
 }
 
-.navigation 
+.navigation li {
+    list-style: none;
+}
