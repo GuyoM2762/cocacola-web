@@ -92,4 +92,5 @@ header {
 
 .content .textBox a {
   display: inline-block;
+  margin-top: 20px;
 }
