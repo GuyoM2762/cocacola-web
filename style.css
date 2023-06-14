@@ -103,3 +103,7 @@ header {
   text-decoration: none;
 }
 
+.sci{
+  position: absolute;
+  bottom: 40px;
+}
