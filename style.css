@@ -115,3 +115,9 @@ header {
 .sci li{
   list-style: none;
 }
+.sci li a{
+  display: inline-block;
+  margin-left: 15px;
+  background: #222;
+  width: 50px;
+}
