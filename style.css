@@ -163,4 +163,6 @@ header {
 
 .swiper-slide img{
   position: absolute;
+  bottom: 0;
+  max-height: 100%;
 }
