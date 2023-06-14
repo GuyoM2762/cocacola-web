@@ -156,5 +156,5 @@ header {
 }
 
 .content .imgBox img{
-  
+  max-width: 150px;
 }
