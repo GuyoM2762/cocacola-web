@@ -134,4 +134,27 @@ header {
   transform: scale(0.5);
 }
 
+/* sliders */
 
+.swiper {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+  width: 300px;
+  height: 300px;
+}
+
+.content .imgBox {
+  width: 700px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.content .imgBox img{
+  
+}
