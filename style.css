@@ -89,3 +89,7 @@ header {
 .content .textBox p{
   color: #fff;
 }
+
+.content .textBox a {
+  display: inline-block;
+}
