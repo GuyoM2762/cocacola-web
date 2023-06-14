@@ -53,3 +53,10 @@ header {
 .navigation li {
     list-style: none;
 }
+
+.navigation li a{
+    display: inline-block;
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+}
